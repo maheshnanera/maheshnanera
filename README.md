@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://github.com/maheshnanera/">
     Hello, I'm Mahesh Nanera, a passionate full-stack developer!
-  </a>
 </p>
 
 <br />
